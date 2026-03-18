@@ -1,5 +1,5 @@
 # historia_arduino_alejandro
-# 🔌 Investigación sobre Arduino
+#  Investigación sobre Arduino
 
 > Ejercicio en Clase — Exploración completa de la plataforma Arduino
 
