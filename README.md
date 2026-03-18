@@ -172,8 +172,8 @@ void loop() {
 
 ## 5. Referencias
 
-- [Arduino Official Website](https://www.arduino.cc)
-- [Arduino Documentation](https://docs.arduino.cc)
-- [Arduino Playground](https://playground.arduino.cc)
-- Banzi, M. & Shiloh, M. (2014). *Getting Started with Arduino*. O'Reilly Media.
-- ATmega328P Datasheet — Microchip Technology
+- https://www.xataka.com/basics/que-arduino-como-funciona-que-puedes-hacer-uno
+- https://aprendiendoarduino.wordpress.com/2019/08/28/entradas-y-salidas-en-arduino/
+- https://roboticsbackend.com/arduino-uno-pins-a-complete-practical-guide/
+- https://www.reddit.com/r/arduino/comments/pmw70q/what_are_these_metal_pins_that_come_with_arduino/?tl=es-419
+- https://lab.bricogeek.com/tutorial/guia-de-modelos-arduino-y-sus-caracteristicas/arduino-uno
