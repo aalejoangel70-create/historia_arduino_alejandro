@@ -3,7 +3,8 @@
 
 ## 1. Historia de Arduino
 
-Arduino nació en **2005** en el Instituto de Diseño Interactivo de Ivrea (IDII), Italia. Fue creado por un equipo liderado por **Massimo Banzi**, David Cuartielles, Tom Igoe, Gianluca Martino y David Mellis, con el objetivo de facilitar el aprendizaje de electrónica y programación para artistas, diseñadores y aficionados.
+Arduino nació en 2005 en el Instituto de Diseño Interactivo de Ivrea (IDII), Italia. Fue creado por un equipo liderado por **Massimo Banzi**, David Cuartielles, Tom Igoe, Gianluca Martino y David Mellis, con el objetivo de facilitar el aprendizaje de electrónica y programación para artistas, diseñadores y aficionados.
+Arduino es una compañía de desarrollo de software y hardware libres, así como una comunidad internacional que diseña y manufactura placas de desarrollo de hardware para construir dispositivos digitales y dispositivos interactivos que puedan detectar y controlar objetos del mundo real. Arduino se enfoca en acercar y facilitar el uso de la electrónica y programación de sistemas embebidos en proyectos multidisciplinarios.
 
 El nombre *Arduino* proviene de un bar en Ivrea llamado **Bar di Re Arduino**, frecuentado por sus fundadores.
 
