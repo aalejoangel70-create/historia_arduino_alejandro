@@ -1,9 +1,5 @@
-# historia_arduino_alejandro
-#  Investigación sobre Arduino
-
-> Ejercicio en Clase — Exploración completa de la plataforma Arduino
-
----
+# Alejandro_Angel
+# INVESTIGACION ARDUINO 
 
 ## 1. Historia de Arduino
 
