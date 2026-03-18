@@ -6,6 +6,8 @@
 Arduino nació en 2005 en el Instituto de Diseño Interactivo de Ivrea (IDII), Italia. Fue creado por un equipo liderado por **Massimo Banzi**, David Cuartielles, Tom Igoe, Gianluca Martino y David Mellis, con el objetivo de facilitar el aprendizaje de electrónica y programación para artistas, diseñadores y aficionados.
 Arduino es una compañía de desarrollo de software y hardware libres, así como una comunidad internacional que diseña y manufactura placas de desarrollo de hardware para construir dispositivos digitales y dispositivos interactivos que puedan detectar y controlar objetos del mundo real. Arduino se enfoca en acercar y facilitar el uso de la electrónica y programación de sistemas embebidos en proyectos multidisciplinarios.
 
+Los diseños de las placas Arduino usan diversos microcontroladores y microprocesadores. Generalmente el hardware consiste de un microcontrolador Atmel AVR, conectado bajo la configuración de «sistema mínimo» sobre una placa de circuito impreso a la que se le pueden conectar placas de expansión (shields) a través de la disposición de los puertos de entrada y salida presentes en la placa seleccionada. Las shields complementan la funcionalidad del modelo de placa empleada, agregando circuitería, sensores y módulos de comunicación externos a la placa original. La mayoría de las placas Arduino pueden ser alimentadas por un puerto USB o un puerto barrel Jack de 2.5 mm.
+
 El nombre *Arduino* proviene de un bar en Ivrea llamado **Bar di Re Arduino**, frecuentado por sus fundadores.
 
 ### Línea del tiempo
